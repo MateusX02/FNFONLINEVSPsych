@@ -24,9 +24,9 @@ using StringTools;
 
 class MainMenuState extends MusicBeatState
 {
-	public static var matEngineVersion:String = '0.0.5'; //X02 engine nem foi lançada direito
-	public static var onlineVersion:String = '3.9.2; //QUE DJABO DE NUMERO É ESSE MANO
-	public static var psychEngineVersion:String = '0.4.2'; //This is also used for Discord RPC
+	public static var matEngineVersion:String = '0.0.5'; 
+	public static var onlineVersion:String = '3.9.2'; 
+	public static var psychEngineVersion:String = '0.4.2';
 	public static var curSelected:Int = 0;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
@@ -108,7 +108,11 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.camera.follow(camFollowPos, null, 1);
 
-		var versionShit:FlxText = new FlxText(12, FlxG.height - 44, 0, "X02Engine versao: " + mateusEngineVersion, 12);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 64, 0, "X02Engine version: " + mateusEngineVersion, 12);
+		versionShit.scrollFactor.set();
+		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.RED, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.WHITE);
+		add(versionShit);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 54, 0, "FNF Online VS. version: " + mateusEngineVersion, 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.RED, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.WHITE);
 		add(versionShit);
