@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DarNeneMenu.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DarNene Menu0000" x="5" y="5" width="801" height="477" frameX="0" frameY="-11" frameWidth="801" frameHeight="488"/>
+	<SubTexture name="DarNene Menu0001" x="5" y="5" width="801" height="477" frameX="0" frameY="-11" frameWidth="801" frameHeight="488"/>
+	<SubTexture name="DarNene Menu0002" x="811" y="5" width="798" height="477" frameX="0" frameY="-11" frameWidth="801" frameHeight="488"/>
+	<SubTexture name="DarNene Menu0003" x="811" y="5" width="798" height="477" frameX="0" frameY="-11" frameWidth="801" frameHeight="488"/>
+	<SubTexture name="DarNene Menu0004" x="5" y="487" width="796" height="486" frameX="0" frameY="-2" frameWidth="801" frameHeight="488"/>
+	<SubTexture name="DarNene Menu0005" x="5" y="487" width="796" height="486" frameX="0" frameY="-2" frameWidth="801" frameHeight="488"/>
+	<SubTexture name="DarNene Menu0006" x="806" y="487" width="795" height="487" frameX="0" frameY="-1" frameWidth="801" frameHeight="488"/>
+	<SubTexture name="DarNene Menu0007" x="806" y="487" width="795" height="487" frameX="0" frameY="-1" frameWidth="801" frameHeight="488"/>
+	<SubTexture name="DarNene Menu0008" x="5" y="979" width="795" height="488" frameX="0" frameY="0" frameWidth="801" frameHeight="488"/>
+	<SubTexture name="DarNene Menu0009" x="5" y="979" width="795" height="488" frameX="0" frameY="0" frameWidth="801" frameHeight="488"/>
+	<SubTexture name="DarNene Menu0010" x="5" y="979" width="795" height="488" frameX="0" frameY="0" frameWidth="801" frameHeight="488"/>
+	<SubTexture name="DarNene Menu0011" x="5" y="979" width="795" height="488" frameX="0" frameY="0" frameWidth="801" frameHeight="488"/>
+	<SubTexture name="DarNene Menu0012" x="5" y="979" width="795" height="488" frameX="0" frameY="0" frameWidth="801" frameHeight="488"/>
+	<SubTexture name="DarNene Menu0013" x="5" y="979" width="795" height="488" frameX="0" frameY="0" frameWidth="801" frameHeight="488"/>
+</TextureAtlas>

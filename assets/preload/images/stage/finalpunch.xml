@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="finalpunch.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EpicFinalPunch0000" x="5" y="5" width="1591" height="480" frameX="-15" frameY="-248" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0001" x="1601" y="5" width="1633" height="484" frameX="0" frameY="-244" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0002" x="1601" y="5" width="1633" height="484" frameX="0" frameY="-244" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0003" x="5" y="494" width="1633" height="488" frameX="-4" frameY="-240" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0004" x="5" y="494" width="1633" height="488" frameX="-4" frameY="-240" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0005" x="1643" y="494" width="1633" height="488" frameX="-6" frameY="-240" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0006" x="1643" y="494" width="1633" height="488" frameX="-6" frameY="-240" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0007" x="5" y="987" width="1633" height="489" frameX="-6" frameY="-240" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0008" x="5" y="987" width="1633" height="489" frameX="-6" frameY="-240" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0009" x="5" y="987" width="1633" height="489" frameX="-6" frameY="-240" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0010" x="5" y="987" width="1633" height="489" frameX="-6" frameY="-240" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0011" x="5" y="987" width="1633" height="489" frameX="-6" frameY="-240" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0012" x="5" y="987" width="1633" height="489" frameX="-6" frameY="-240" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0013" x="1643" y="987" width="1633" height="456" frameX="-6" frameY="-273" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0014" x="1643" y="987" width="1633" height="456" frameX="-6" frameY="-273" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0015" x="5" y="1481" width="1633" height="510" frameX="-6" frameY="-219" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0016" x="1643" y="1481" width="1632" height="729" frameX="-6" frameY="0" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0017" x="1643" y="1481" width="1632" height="729" frameX="-6" frameY="0" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0018" x="5" y="2215" width="1632" height="728" frameX="-6" frameY="-1" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0019" x="5" y="2215" width="1632" height="728" frameX="-6" frameY="-1" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0020" x="5" y="2215" width="1632" height="728" frameX="-6" frameY="-1" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0021" x="1642" y="2215" width="1632" height="719" frameX="-6" frameY="-10" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0022" x="1642" y="2215" width="1632" height="719" frameX="-6" frameY="-10" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0023" x="5" y="2948" width="1632" height="703" frameX="-6" frameY="-26" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0024" x="5" y="2948" width="1632" height="703" frameX="-6" frameY="-26" frameWidth="1639" frameHeight="729"/>
+	<SubTexture name="EpicFinalPunch0025" x="5" y="2948" width="1632" height="703" frameX="-6" frameY="-26" frameWidth="1639" frameHeight="729"/>
+</TextureAtlas>

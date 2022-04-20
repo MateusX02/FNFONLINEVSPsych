@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bussin.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BusN0000" x="5" y="5" width="3154" height="906" frameX="-11" frameY="0" frameWidth="3172" frameHeight="909"/>
+	<SubTexture name="BusN0001" x="3164" y="5" width="3166" height="873" frameX="-6" frameY="-31" frameWidth="3172" frameHeight="909"/>
+	<SubTexture name="BusN0002" x="5" y="916" width="3166" height="897" frameX="0" frameY="-12" frameWidth="3172" frameHeight="909"/>
+	<SubTexture name="Bussin0000" x="3176" y="916" width="3226" height="909" frameX="-11" frameY="0" frameWidth="3237" frameHeight="909"/>
+	<SubTexture name="Bussin0001" x="5" y="1830" width="3231" height="878" frameX="-6" frameY="-31" frameWidth="3237" frameHeight="909"/>
+	<SubTexture name="Bussin0002" x="3241" y="1830" width="3237" height="897" frameX="0" frameY="-12" frameWidth="3237" frameHeight="909"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "DarNene Menu",
+	"confirm_anim": "Pico Taunt",
+	"position": [
+		130,
+		50
+	],
+	"scale": 0.6,
+	"image": "DarNeneMenu"
+}

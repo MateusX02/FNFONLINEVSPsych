@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Pico Idle Dance",
+	"image": "PicoMenu",
+	"position": [
+		110,
+		51
+	],
+	"scale": 0.6,
+	"confirm_anim": "Pico Taunt"
+}

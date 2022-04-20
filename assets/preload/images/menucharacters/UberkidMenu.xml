@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UberkidMenu.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="UberKidIdle menu0000" x="5" y="5" width="976" height="559" frameX="0" frameY="0" frameWidth="976" frameHeight="561"/>
+	<SubTexture name="UberKidIdle menu0001" x="5" y="5" width="976" height="559" frameX="0" frameY="0" frameWidth="976" frameHeight="561"/>
+	<SubTexture name="UberKidIdle menu0002" x="986" y="5" width="976" height="559" frameX="0" frameY="0" frameWidth="976" frameHeight="561"/>
+	<SubTexture name="UberKidIdle menu0003" x="986" y="5" width="976" height="559" frameX="0" frameY="0" frameWidth="976" frameHeight="561"/>
+	<SubTexture name="UberKidIdle menu0004" x="5" y="569" width="976" height="559" frameX="0" frameY="0" frameWidth="976" frameHeight="561"/>
+	<SubTexture name="UberKidIdle menu0005" x="5" y="569" width="976" height="559" frameX="0" frameY="0" frameWidth="976" frameHeight="561"/>
+	<SubTexture name="UberKidIdle menu0006" x="986" y="569" width="976" height="559" frameX="0" frameY="0" frameWidth="976" frameHeight="561"/>
+	<SubTexture name="UberKidIdle menu0007" x="5" y="1133" width="976" height="560" frameX="0" frameY="-1" frameWidth="976" frameHeight="561"/>
+	<SubTexture name="UberKidIdle menu0008" x="986" y="1133" width="976" height="560" frameX="0" frameY="-1" frameWidth="976" frameHeight="561"/>
+	<SubTexture name="UberKidIdle menu0009" x="986" y="1133" width="976" height="560" frameX="0" frameY="-1" frameWidth="976" frameHeight="561"/>
+	<SubTexture name="UberKidIdle menu0010" x="986" y="1133" width="976" height="560" frameX="0" frameY="-1" frameWidth="976" frameHeight="561"/>
+	<SubTexture name="UberKidIdle menu0011" x="986" y="1133" width="976" height="560" frameX="0" frameY="-1" frameWidth="976" frameHeight="561"/>
+	<SubTexture name="UberKidIdle menu0012" x="986" y="1133" width="976" height="560" frameX="0" frameY="-1" frameWidth="976" frameHeight="561"/>
+	<SubTexture name="UberKidIdle menu0013" x="986" y="1133" width="976" height="560" frameX="0" frameY="-1" frameWidth="976" frameHeight="561"/>
+</TextureAtlas>
