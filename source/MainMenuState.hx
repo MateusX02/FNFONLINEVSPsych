@@ -112,7 +112,7 @@ class MainMenuState extends MusicBeatState
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.RED, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.WHITE);
 		add(versionShit);
-		var versionShit:FlxText = new FlxText(12, FlxG.height - 54, 0, "FNF Online VS. version: " + mateusEngineVersion, 12);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 54, 0, "FNF Online VS. version: " + onlineVersion, 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.RED, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.WHITE);
 		add(versionShit);
